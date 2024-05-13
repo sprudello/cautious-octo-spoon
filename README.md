@@ -1,4 +1,10 @@
 # cautious-octo-spoon
 A Password manager with PHP
 
-Julius Burlet, Timo Goedertier, Manuel Greub, Rebecca Willi
+Julius Burlet / sprudello
+
+Timo Goedertier / timog06
+
+Manuel Greub / KeinZweitAcc
+
+Rebecca Willi / r3bi4321
